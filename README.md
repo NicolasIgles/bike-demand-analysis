@@ -85,11 +85,12 @@ Entre los resultados más relevantes del análisis se destacan los siguientes:
 bike-demand-analysis/
 │
 ├── data/
-│
+│   └── SeoulBikeData.csv
 ├── notebooks/
 │   └── bike_demand_analysis.ipynb
 │
 ├── images/
+│   └── graficos/
 │
 ├── README.md
 ├── requirements.txt
