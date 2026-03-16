@@ -68,9 +68,11 @@ Estas variables permitieron observar con mayor claridad cómo cambia la demanda 
 Entre los resultados más relevantes del análisis se destacan los siguientes:
 
 - la demanda de bicicletas cambia de forma marcada según la hora del día
+- 
 ![Demanda promedio por hora](images/graficos/Promedio_de_bicicletas_alquiladas_por_hora.png)
 
 - la temperatura muestra una relación positiva con la cantidad de alquileres
+- 
 ![Demanda promedio por hora](images/graficos/Temperatura_vs_bicicletas_alquiladas.png)
 
 - la lluvia y la nieve tienden a reducir la demanda
