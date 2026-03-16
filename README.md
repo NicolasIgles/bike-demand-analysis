@@ -83,10 +83,9 @@ Entre los resultados más relevantes del análisis se destacan los siguientes:
 bike-demand-analysis/
 │
 ├── data/
-│   └── raw/
 │
 ├── notebooks/
-│   └── analisis_demanda_bicicletas.ipynb
+│   └── bike_demand_analysis.ipynb
 │
 ├── images/
 │
